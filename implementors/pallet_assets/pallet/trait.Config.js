@@ -1,3 +1,4 @@
 (function() {var implementors = {};
+implementors["alpha_runtime"] = [{"text":"impl Config&lt;<a class=\"primitive\" href=\"https://doc.rust-lang.org/nightly/std/primitive.unit.html\">()</a>&gt; for <a class=\"struct\" href=\"alpha_runtime/struct.Runtime.html\" title=\"struct alpha_runtime::Runtime\">Runtime</a>","synthetic":false,"types":["alpha_runtime::Runtime"]}];
 implementors["ipci_runtime"] = [{"text":"impl Config&lt;<a class=\"primitive\" href=\"https://doc.rust-lang.org/nightly/std/primitive.unit.html\">()</a>&gt; for <a class=\"struct\" href=\"ipci_runtime/struct.Runtime.html\" title=\"struct ipci_runtime::Runtime\">Runtime</a>","synthetic":false,"types":["ipci_runtime::Runtime"]}];
 if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

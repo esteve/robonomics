@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["alpha_runtime"] = [{"text":"impl&lt;T:&nbsp;Get&lt;MultiLocation&gt;&gt; FilterAssetLocation for <a class=\"struct\" href=\"alpha_runtime/constants/currency/struct.AssetsFrom.html\" title=\"struct alpha_runtime::constants::currency::AssetsFrom\">AssetsFrom</a>&lt;T&gt;","synthetic":false,"types":["alpha_runtime::constants::currency::AssetsFrom"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
